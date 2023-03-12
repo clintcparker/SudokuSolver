@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sudoku-cli", "sudoku-cli\sudoku-cli.csproj", "{CAB8F132-91E3-4891-BAEB-CA960423C32E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sudoku-core", "sudoku-core\sudoku-core.csproj", "{A80FFA89-4429-49D0-9A11-49D1F081A8EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sudoku-tests", "sudoku-tests\sudoku-tests.csproj", "{74150BC4-E9E4-4048-A741-8F2B332D6ED2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sudoku-web", "sudoku-web\sudoku-web.csproj", "{041650FD-B77B-41B3-AE1F-363794E5C70C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAB8F132-91E3-4891-BAEB-CA960423C32E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB8F132-91E3-4891-BAEB-CA960423C32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB8F132-91E3-4891-BAEB-CA960423C32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB8F132-91E3-4891-BAEB-CA960423C32E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A80FFA89-4429-49D0-9A11-49D1F081A8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80FFA89-4429-49D0-9A11-49D1F081A8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80FFA89-4429-49D0-9A11-49D1F081A8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80FFA89-4429-49D0-9A11-49D1F081A8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74150BC4-E9E4-4048-A741-8F2B332D6ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74150BC4-E9E4-4048-A741-8F2B332D6ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74150BC4-E9E4-4048-A741-8F2B332D6ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74150BC4-E9E4-4048-A741-8F2B332D6ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{041650FD-B77B-41B3-AE1F-363794E5C70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041650FD-B77B-41B3-AE1F-363794E5C70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041650FD-B77B-41B3-AE1F-363794E5C70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041650FD-B77B-41B3-AE1F-363794E5C70C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
