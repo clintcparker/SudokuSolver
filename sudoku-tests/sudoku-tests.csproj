@@ -21,4 +21,13 @@
     <ProjectReference Include="..\sudoku-web\sudoku-web.csproj" />
   </ItemGroup>
 
+  <!-- Copy 421633824-html.txt to output directory -->
+  <ItemGroup>
+    <Content Include="..\sudoku-tests\4216331824-easy-html.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\sudoku-tests\807089539-evil-html.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
 </Project>

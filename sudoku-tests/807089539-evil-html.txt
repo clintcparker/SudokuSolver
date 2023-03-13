@@ -1,0 +1,152 @@
+
+<HTML>
+	<HEAD>
+		<TITLE>Web Sudoku - Billions of Free Sudoku Puzzles to Play Online</TITLE>
+		<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+        <meta id = "mobileviewport" name="viewport" content="width=device-width, initial-scale=1">
+		<LINK REL="stylesheet" TYPE="text/css" HREF="style28.css">
+
+
+		<SCRIPT language="JavaScript"><!--
+			var w_c=1;
+			var w_s=0;
+			var e_m=1;
+			var m_c='<FONT COLOR=green><B>Back to the start, we go!</B></FONT>';
+			var m_m='<FONT COLOR=red><B>You have made some mistakes, highlighted in red!</B></FONT>';
+			var m_w='<FONT COLOR=purple><B>Something is not quite right in * of the cells!</B></FONT>';
+			var m_i='<FONT COLOR=blue><B>Everything is OK, you still have * to go!</B></FONT>';
+			var m_d='<B>Here is the puzzle. Good luck!</B>';
+			var s_c=false;
+			var cheat='147298563265347198893165724438679215579421386621583479756832941382914657914756832';
+			var prefix='4cywk';
+			var pid='807089539';
+		// --></SCRIPT>
+		<SCRIPT TYPE="text/javascript" SRC="index31.js"></SCRIPT>
+
+
+<!-- OneTrust Cookies Consent Notice start -->
+
+<script src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="9729622b-0f2e-4ae7-bce8-cac19b6e3aac"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end -->
+
+
+		
+<script data-cfasync="false" type="text/javascript">
+window.addEventListener("adnginLoaderReady", function() {
+  adngin.queue.push(function() {
+    googletag.cmd.push(function() {
+      googletag.pubads().set("page_url", "http://websudoku.com");
+    });
+  });
+});
+
+window.snigelPubConf = {
+  "adengine": {
+    "activeAdUnits": ["gamepage-ad"]
+  }
+}
+</script>
+<script data-cfasync="false" async src="https://cdn.snigelweb.com/adengine/websudoku.com/loader.js" type="text/javascript"></script>
+
+		<!-- The HTML code and text in this document are copyright. Infringers of copyright will be prosecuted. -->
+	</HEAD>
+	
+	<BODY BGCOLOR="#F9F9FF" onLoad="j3(-1);">	
+	<TABLE WIDTH=100% HEIGHT=100% CELLSPACING=16 BORDER=0><TR>	<TD id="left-column" WIDTH="248">
+			<TABLE WIDTH="248" CELLSPACING=0 BORDER=0 HEIGHT=100%>
+				<TR><TD VALIGN=top ALIGN=center >
+					<SCRIPT language="JavaScript"><!--
+						j0();
+					// --></SCRIPT>
+<P STYLE="font-size:8pt; margin:0;"><B>English</B> &nbsp; <A HREF="http://fr.websudoku.com/" TARGET="_top" TITLE="Web Sudoku - Des Milliards de Sudokus Gratuits pour Jouer en Ligne">Français</A> &nbsp; <A HREF="http://de.websudoku.com/" TARGET="_top" TITLE="Web Sudoku - Milliarden Kostenlose Online-Sudokus">Deutsch</A> &nbsp; <A HREF="http://es.websudoku.com/" TARGET="_top" TITLE="Web Sudoku - Billones de rompecabezas sudoku gratis a los que jugar en Línea">Español</A> </P>					<P CLASS=tm STYLE="margin:18px 0"><IMG SRC="logo-108x108.gif" HEIGHT=108 WIDTH=108 BORDER=0></P>
+					<P CLASS=tm STYLE="font-size:12pt"><A HREF="//www.websudoku.com/?level=1" TARGET="_top"><B>Easy</B></A> &nbsp; <A HREF="//www.websudoku.com/?level=2" TARGET="_top"><B>Medium</B></A> &nbsp; <A HREF="//www.websudoku.com/?level=3" TARGET="_top"><B>Hard</B></A> &nbsp; <B>Evil</B> </P>
+					<P CLASS=tm STYLE="font-size:10pt">
+					&nbsp;
+					<A HREF="//www.websudoku.com/variation/" TARGET="_top" TITLE="Print a Sudoku variation! Samurai, Squiggly and more..."><B>Try Variations</B></A>
+					&nbsp;
+					<A HREF="//www.websudoku.com/deluxe.php?l0" TARGET="_top" TITLE="Download Web Sudoku Deluxe to Play Offline!"><B>Download Deluxe</B></A>
+					</P>
+					<P CLASS=tm STYLE="padding-top:6px; padding-bottom:12px; margin:18px 0;">Every <A HREF="http://en.wikipedia.org/wiki/Sudoku" TARGET="_top">Sudoku</A> has a unique solution that can be reached logically. Enter numbers into the blank spaces so that each row, column and 3x3 box contains the numbers 1&nbsp;to&nbsp;9 without repeats.</P>
+					<P CLASS=tm STYLE="font-size:10pt;"><A HREF="//www.websudoku.com/deluxe.php?l" TARGET="_top" TITLE="Play Offline, Full Screen, Extra Features!"><B><U>Play Offline with Web Sudoku Deluxe</U></B><br><IMG SRC="green-arrow.gif" ALIGN="baseline" WIDTH="11" HEIGHT="11" BORDER="0" STYLE="position:relative; top:1px; left:-5px;"><FONT COLOR="#006600">Download for Windows and Mac</FONT></A></P>
+					<P CLASS=tm STYLE="font-size:10pt"><A HREF="//www.websudoku.com/ebook.php?l" TARGET="_top" TITLE="Choose your own Puzzles and Levels!"><B><U>Create your own Sudoku Ebook</U></B></A></P>
+					<P CLASS=tm STYLE="font-size:10pt"><a href="https://play.google.com/store/apps/details?id=com.websudoku.app&referrer=utm_source%3Dwebsudoku%26utm_medium%3Dreferral%26utm_campaign%3Dleft_link" target="_top"><B><U>Web Sudoku for Android</U></B></a> and <a href="https://itunes.apple.com/us/app/web-sudoku/id786161944?mt=8&uo=4&at=11l558" target="_top"><B><U>iPad</U></B></a>:</P>
+					<P STYLE="margin-top:6px;"><a href="https://itunes.apple.com/us/app/web-sudoku/id786161944?mt=8&uo=4&at=11l558" target="_top"><IMG SRC="download-app-store.png" TITLE="Web Sudoku app for iPad" WIDTH="135" HEIGHT="40" BORDER="0"></a> <a href="https://play.google.com/store/apps/details?id=com.websudoku.app&referrer=utm_source%3Dwebsudoku%26utm_medium%3Dreferral%26utm_campaign%3Dleft_button" target="_top"><IMG SRC="get-it-google-play.png" TITLE="Web Sudoku app for Android" WIDTH="117" HEIGHT="40" BORDER="0"></a></P>
+					<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1165533-17', 'auto');
+  ga('send', 'pageview');
+
+</script>				</TD></TR>
+				<TR><TD VALIGN=bottom NOWRAP ALIGN=center>
+					<P CLASS=tm><B><A HREF="//www.websudoku.com/syndication.php" TARGET="_top" TITLE="Sudoku puzzle syndication for newspapers, magazines, websites, books and more.">Syndication</A> | <A HREF="//www.websudoku.com/books/" TARGET="_top" TITLE="Our unique Sudoku books with online solving guides">Books</A> | <A HREF="//www.websudoku.com/widget.php" TARGET="_top" TITLE="Add Sudoku to your website or blog">Widget</A> | <A HREF="//www.websudoku.com/ipad-android.php" TARGET="_top" TITLE="Web Sudoku for iPad and Android">iPad / Android</A></B></P>
+					<P CLASS=tm STYLE="margin-top:4pt;"><B><A HREF="//www.websudoku.com/about.php" TARGET="_top" TITLE="More information about Web Sudoku">About Us</A> | <A HREF="//www.websudoku.com/faqs.php" TARGET="_top" TITLE="Frequently Asked Questions">FAQs</A> | <A HREF="//www.websudoku.com/feedback.php" TARGET="_top" TITLE="Send feedback to Web Sudoku">Feedback</A> | <A HREF="//www.websudoku.com/privacy.php" TARGET="_top" TITLE="Our full privacy statement">Privacy Policy</A></B></P>
+				</TD></TR>
+			</TABLE>
+		</TD>
+		
+		<TD id="separator" WIDTH=1 BGCOLOR=#999999><IMG SRC="//www.websudoku.com/images/transparent.gif" WIDTH=1></TD>
+
+		<TD WIDTH=* BGCOLOR="#F9F9FF" ><TABLE WIDTH=100% HEIGHT=100% CELLSPACING=0>
+
+<TR><TD HEIGHT="24" ALIGN="right" STYLE="padding-bottom:12px;"><SPAN STYLE="display:none; float:left; font-weight:bold;" ID="ipad_link"><A HREF="//www.websudoku.com/?ipad=1" TARGET="_top" STYLE="color:red;">Go to iPad version</A></SPAN><B><A HREF="//www.websudoku.com/?register" TARGET="_top">Register Free</A> or <A HREF="//www.websudoku.com/?signin" TARGET="_top">Sign In to Web Sudoku</A></B> &nbsp;</TD></TR>	
+			<TR VALIGN="middle"><TD ALIGN="center">
+
+			<FORM NAME="board" METHOD=POST ACTION="./" STYLE="margin:0;">
+
+
+			
+			<div id="ads_banner">
+				<p style="margin:0 0 12px 0; font-size:8pt;"><a href="#" onclick="var elem=document.getElementById('ads_banner'); if (elem) elem.parentNode.removeChild(elem); elem=document.getElementById('ot-sdk-btn-floating'); if (elem) elem.style.display='none'; return false;">Hide the advertisement below</a></p>
+			
+
+<div id="adngin-gamepage-ad-0" style="height:90px;"></div>
+<script>if (ga) ga('send', 'event', 'Puzzle Ad', 'SW', '', 0, {'NonInteraction': 1});</script>
+
+			
+			</div>
+
+
+			<P STYLE="margin-top:36px; margin-bottom:12px;"><FONT STYLE="font-size:;"><SPAN id="message"><B>Here is the puzzle. Good luck!</B></SPAN></FONT>
+			</P><P STYLE="margin:0;">
+<DIV id="puzzle_container" STYLE="position:relative;"><TABLE id="puzzle_grid" CELLSPACING=0 CELLPADDING=0 CLASS=t><TR><TD CLASS=g0 ID=c00><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk11 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f00></TD><TD CLASS=f0 ID=c10><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk21 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f10></TD><TD CLASS=f0 ID=c20><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk31 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f20></TD><TD CLASS=g0 ID=c30><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk41 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f30></TD><TD CLASS=f0 ID=c40><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk51 READONLY VALUE="9" ID=f40></TD><TD CLASS=f0 ID=c50><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk61 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f50></TD><TD CLASS=g0 ID=c60><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk71 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f60></TD><TD CLASS=f0 ID=c70><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk81 READONLY VALUE="6" ID=f70></TD><TD CLASS=f0 ID=c80><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk91 READONLY VALUE="3" ID=f80></TD></TR><TR><TD CLASS=e0 ID=c01><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk12 READONLY VALUE="2" ID=f01></TD><TD CLASS=c0 ID=c11><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk22 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f11></TD><TD CLASS=c0 ID=c21><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk32 READONLY VALUE="5" ID=f21></TD><TD CLASS=e0 ID=c31><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk42 READONLY VALUE="3" ID=f31></TD><TD CLASS=c0 ID=c41><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk52 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f41></TD><TD CLASS=c0 ID=c51><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk62 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f51></TD><TD CLASS=e0 ID=c61><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk72 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f61></TD><TD CLASS=c0 ID=c71><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk82 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f71></TD><TD CLASS=c0 ID=c81><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk92 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f81></TD></TR><TR><TD CLASS=e0 ID=c02><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk13 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f02></TD><TD CLASS=c0 ID=c12><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk23 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f12></TD><TD CLASS=c0 ID=c22><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk33 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f22></TD><TD CLASS=e0 ID=c32><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk43 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f32></TD><TD CLASS=c0 ID=c42><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk53 READONLY VALUE="6" ID=f42></TD><TD CLASS=c0 ID=c52><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk63 READONLY VALUE="5" ID=f52></TD><TD CLASS=e0 ID=c62><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk73 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f62></TD><TD CLASS=c0 ID=c72><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk83 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f72></TD><TD CLASS=c0 ID=c82><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk93 READONLY VALUE="4" ID=f82></TD></TR><TR><TD CLASS=g0 ID=c03><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk14 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f03></TD><TD CLASS=f0 ID=c13><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk24 READONLY VALUE="3" ID=f13></TD><TD CLASS=f0 ID=c23><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk34 READONLY VALUE="8" ID=f23></TD><TD CLASS=g0 ID=c33><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk44 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f33></TD><TD CLASS=f0 ID=c43><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk54 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f43></TD><TD CLASS=f0 ID=c53><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk64 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f53></TD><TD CLASS=g0 ID=c63><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk74 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f63></TD><TD CLASS=f0 ID=c73><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk84 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f73></TD><TD CLASS=f0 ID=c83><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk94 READONLY VALUE="5" ID=f83></TD></TR><TR><TD CLASS=e0 ID=c04><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk15 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f04></TD><TD CLASS=c0 ID=c14><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk25 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f14></TD><TD CLASS=c0 ID=c24><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk35 READONLY VALUE="9" ID=f24></TD><TD CLASS=e0 ID=c34><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk45 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f34></TD><TD CLASS=c0 ID=c44><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk55 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f44></TD><TD CLASS=c0 ID=c54><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk65 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f54></TD><TD CLASS=e0 ID=c64><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk75 READONLY VALUE="3" ID=f64></TD><TD CLASS=c0 ID=c74><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk85 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f74></TD><TD CLASS=c0 ID=c84><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk95 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f84></TD></TR><TR><TD CLASS=e0 ID=c05><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk16 READONLY VALUE="6" ID=f05></TD><TD CLASS=c0 ID=c15><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk26 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f15></TD><TD CLASS=c0 ID=c25><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk36 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f25></TD><TD CLASS=e0 ID=c35><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk46 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f35></TD><TD CLASS=c0 ID=c45><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk56 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f45></TD><TD CLASS=c0 ID=c55><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk66 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f55></TD><TD CLASS=e0 ID=c65><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk76 READONLY VALUE="4" ID=f65></TD><TD CLASS=c0 ID=c75><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk86 READONLY VALUE="7" ID=f75></TD><TD CLASS=c0 ID=c85><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk96 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f85></TD></TR><TR><TD CLASS=g0 ID=c06><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk17 READONLY VALUE="7" ID=f06></TD><TD CLASS=f0 ID=c16><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk27 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f16></TD><TD CLASS=f0 ID=c26><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk37 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f26></TD><TD CLASS=g0 ID=c36><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk47 READONLY VALUE="8" ID=f36></TD><TD CLASS=f0 ID=c46><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk57 READONLY VALUE="3" ID=f46></TD><TD CLASS=f0 ID=c56><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk67 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f56></TD><TD CLASS=g0 ID=c66><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk77 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f66></TD><TD CLASS=f0 ID=c76><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk87 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f76></TD><TD CLASS=f0 ID=c86><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk97 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f86></TD></TR><TR><TD CLASS=e0 ID=c07><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk18 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f07></TD><TD CLASS=c0 ID=c17><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk28 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f17></TD><TD CLASS=c0 ID=c27><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk38 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f27></TD><TD CLASS=e0 ID=c37><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk48 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f37></TD><TD CLASS=c0 ID=c47><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk58 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f47></TD><TD CLASS=c0 ID=c57><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk68 READONLY VALUE="4" ID=f57></TD><TD CLASS=e0 ID=c67><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk78 READONLY VALUE="6" ID=f67></TD><TD CLASS=c0 ID=c77><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk88 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f77></TD><TD CLASS=c0 ID=c87><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk98 READONLY VALUE="7" ID=f87></TD></TR><TR><TD CLASS=i0 ID=c08><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk19 READONLY VALUE="9" ID=f08></TD><TD CLASS=h0 ID=c18><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk29 READONLY VALUE="1" ID=f18></TD><TD CLASS=h0 ID=c28><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk39 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f28></TD><TD CLASS=i0 ID=c38><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk49 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f38></TD><TD CLASS=h0 ID=c48><INPUT CLASS=s0 SIZE=2 AUTOCOMPLETE=off NAME=s4cywk59 READONLY VALUE="5" ID=f48></TD><TD CLASS=h0 ID=c58><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk69 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f58></TD><TD CLASS=i0 ID=c68><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk79 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f68></TD><TD CLASS=h0 ID=c78><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk89 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f78></TD><TD CLASS=h0 ID=c88><INPUT CLASS=d0 SIZE=2 AUTOCOMPLETE=off NAME=4cywk99 MAXLENGTH=5 onKeyUp="j5(this)" onBlur="j8(this)" ID=f88></TD></TR></TABLE></DIV>
+				<INPUT NAME=prefix ID="prefix" TYPE=hidden VALUE="4cywk">
+				<INPUT NAME=start TYPE=hidden VALUE="1678731572">
+				<INPUT NAME=inchallenge TYPE=hidden VALUE="">
+				<INPUT NAME=level TYPE=hidden VALUE="4">
+				<INPUT NAME=id ID="pid" TYPE=hidden VALUE="807089539">
+				<INPUT NAME=cheat ID="cheat" TYPE=hidden VALUE="147298563265347198893165724438679215579421386621583479756832941382914657914756832">
+				<INPUT ID="editmask" TYPE=hidden VALUE="111101100010011111111100110100111110110111011011111001011001111111110010001101111">
+				<INPUT NAME=options TYPE=hidden VALUE="4...yes.on.1..F9F9FF">
+				<INPUT NAME=errors TYPE=hidden VALUE="0" ID="errors">
+				<INPUT NAME=layout TYPE=hidden VALUE="">
+			<P STYLE="margin-top:12pt; margin-bottom:0pt;"><INPUT NAME="jstimer" ID="jstimer" TYPE="hidden">
+
+<FONT STYLE="font-size:111%"><A HREF="//www.websudoku.com/?level=4&set_id=807089539" TARGET="_top" TITLE="Copy link for this puzzle">Evil Puzzle 807,089,539</A>			
+			-<SPAN ID="timer"></SPAN>- <A HREF="//www.websudoku.com/?select=1&level=4" TARGET="_top">Select a puzzle...</A></FONT>				</P>
+				<P STYLE="margin-top: 9pt;">
+				<INPUT NAME=submit TYPE=submit CLASS=bs VALUE="How am I doing?" onClick="j12(); return j1();"><INPUT NAME=pause TYPE=submit CLASS=bs VALUE="Pause" onClick="return j12();"><INPUT NAME=printopts TYPE=submit CLASS=bs VALUE="Print..." onClick="return j12();"><INPUT NAME=clear TYPE=submit CLASS=bs VALUE="Clear" onClick="j7(2); return false;"><INPUT NAME=showopts TYPE=submit CLASS=bs VALUE="Options..." onClick="return j12();">
+				</P>
+
+				<INPUT NAME="jscheat" ID="jscheat" TYPE="hidden">
+
+							<DIV ID="c_div" STYLE="display:none; text-align:left; z-index:999; font-size:14px; width:320px; height:100px; border-radius:8px; box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; position:fixed; top:50%; left:50%; margin-left:-160px; margin-top:-50px; background:white;">
+					<P ID="c_text" STYLE="margin:12px; font-weight:bold;"></P>
+					<DIV STYLE="margin:10px; position:absolute; bottom:0px; right:0px;">	
+						<INPUT TYPE="submit" STYLE="width:5em;" onClick="j13(); return false;" VALUE="Cancel">
+						<INPUT ID="c_ok" TYPE="submit" STYLE="width:5em;" VALUE="OK">
+					</DIV>
+				</DIV>
+</FORM>
+			</TD></TR>
+		</TABLE></TD>
+
+	</TR></TABLE>	
+	</BODY>
+</HTML>
